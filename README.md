@@ -7,7 +7,7 @@ Sapo API cho phép thiết lập phần lớn tính năng từ các ứng dụng
 Sapo Embedded App SDK sẽ giúp bạn tạo ra những sản phẩm gần gũi với khách hàng hơn khi được trở thành những Admin của chính ứng dụng của mình.
 Bạn có thể dễ dàng bắt đầu với Sapo API. Sapo đem đến cho bạn những hướng dẫn chi tiết để bắt đầu xây dựng ứng dụng, cùng với đó là những lưu ý cần nhớ khi bạn gặp các vấn đề khó khăn, cùng với đó là API Reference để tìm hiểu chính xác những gì bạn có thể thực hiện với API.
 
-[![Đăng ký](https://www.google.com.vn/search?q=button&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj2h_6n4tzbAhUCXrwKHaWBDtMQ_AUICigB&biw=1366&bih=645#imgrc=xEfFAsCzkEhQvM:)](https://developers.sapo.vn/services/partners/auth/register)
+[![Đăng ký]](https://developers.sapo.vn/services/partners/auth/register)
 
 *Bạn đang tìm kiếm thông tin về cách sử dụng ứng dụng trong Kho ứng dụng của Sapo? [Tìm hiểu thêm tại Sapo hướng dẫn](https://web-docs.sapo.vn/gioi-thieu-189.html)*
 
